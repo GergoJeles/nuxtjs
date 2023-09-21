@@ -20,3 +20,6 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+
+URL: https://thales.udemy.com/course/nuxtjs-vuejs-on-steroids/learn/lecture/10808492#overview
